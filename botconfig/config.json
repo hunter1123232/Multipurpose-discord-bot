@@ -1,17 +1,17 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "ODk5MDMwODkyNDczODkyOTI0.Gsl-Iq.-mNdaaVyBJajedk5UiU62-MT6mXhVVqB9m8Zu0",
+    "prefix": "!",
     "ownerIDS": [
-        "442355791412854784"
+        "963511481675153478"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
-        "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "text": "pornhub",
+        "text2": "",
+        "type": "watching",
+        "url": ""
     },
     "clientsettings": {
         "nodes": [
